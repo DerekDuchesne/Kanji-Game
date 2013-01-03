@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="TextBox.h" open="0" top="0" tabpos="0">
+		<Cursor position="337" topLine="0" />
+	</File>
+	<File name="TextField.h" open="1" top="1" tabpos="3">
+		<Cursor position="144164" topLine="3126" />
+	</File>
+	<File name="bin\Debug\resource.rc" open="1" top="0" tabpos="2">
+		<Cursor position="37" topLine="0" />
+	</File>
+	<File name="main.cpp" open="1" top="0" tabpos="1">
+		<Cursor position="52080" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>
