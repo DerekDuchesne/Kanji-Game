@@ -1,0 +1,301 @@
+one
+one (thing)
+two
+two (things)
+three
+three (things)
+four
+four (things)
+five
+five (things)
+six
+six (things)
+six hundred
+seven
+seven (things)
+eight
+eight (things)
+eight hundred
+nine
+nine (things)
+ten
+hundred
+two hundred
+three hundred
+thousand
+two thousand
+three thousand
+eight thousand
+one thousand yen
+ten thousand
+one hundred thousand
+one million
+one hundred yen
+mouth
+eye
+Sunday
+Japan
+today
+January
+Monday
+this month
+moon
+Tuesday
+fire
+Wednesday
+water
+Thursday
+tree
+Friday
+money
+Saturday
+day of the week
+book
+one (long object)
+two (long objects)
+three (long objects)
+person
+Japanese people
+one person
+two people
+three people
+alone
+now
+temple
+one o'clock
+half past three
+half
+sword
+five minutes
+ten minutes
+to understand
+up; above
+to raise
+down; below
+to lower
+middle; inside
+outside
+right
+left
+before; front
+A.M.
+in the morning
+back; behind
+after class
+later
+P.M.
+gate
+between
+time
+two hours
+east
+east exit
+the Middle East
+west
+west exit
+south
+south exit
+Southeast Asia
+north
+north exit
+Mr./Mrs. Tanaka
+power
+man
+woman
+boy
+man (polite)
+girl
+woman (polite)
+student
+teacher
+to be born
+to live
+last month
+what
+something
+how many people
+what time
+my father
+father
+Father's Day
+my mother
+mother
+Mother's Day
+third-year student
+one year
+this year
+last year
+every year
+year
+every day
+every month
+king
+country
+foreign country
+China
+to see
+to show
+can be seen
+to go
+rice
+to come
+to come
+not to come
+next year
+next week
+good
+to eat
+to drink
+to meet
+conversation
+ear
+to listen; to ask
+can be heard
+to say
+to speak
+talk (noun); story
+to stand
+to wait
+this week
+next week
+last week
+every week
+one week
+big
+college
+college student
+adult
+love
+small
+elementary school student
+high; expensive
+cheap
+new
+newspaper
+old
+healthy; fine; energetic
+to be careful
+many
+a little
+few
+wide; spacious
+early; fast
+early; quickly
+long
+bright
+tomorrow
+like
+friend
+to enter
+to put something in
+entrance
+to enter a school
+to be hospitalized
+exit; appear
+to go out
+to take something out
+exit
+Tsukuba City
+mayor
+town
+village
+rain
+electricity
+train
+telephone
+car
+horse
+station
+company
+society
+company president
+school
+high school
+middle school
+elementary school
+principal
+shop
+bank
+illness
+hospital
+graduate school
+graduate student
+to rest; to be absent
+holiday; absence
+to run
+to wake up
+to wake someone up
+shellfish
+to buy
+to sell
+to read
+to write
+to return
+to study
+insect
+bow
+strong
+to hold
+rich person
+feeling
+name
+Japanese
+Chinese
+spring
+spring vacation
+summer
+summer vacation
+autumn; fall
+winter
+winter vacation
+morning
+every morning
+this morning
+noon; daytime
+daytime
+lunch break
+early evening
+way of reading
+evening; night
+tonight
+every night
+night
+tonight
+midnight; middle of the night
+heart
+to be relieved
+hand
+poor at
+good at
+foot; leg
+to be sufficient
+to add
+body
+neck
+road; way
+mountain
+mountain road
+Mr./Mrs. Yamada
+river
+Mr./Mrs. Ogawa
+small forest; grove
+forest
+Mr./Mrs. Morita
+sky
+air
+sea
+Hokkaidou
+chemistry
+flower
+flower viewing
+weather
+red
+baby
+blue
+blue sky
+white
+black
+color
+fish
+dog
+puppy
