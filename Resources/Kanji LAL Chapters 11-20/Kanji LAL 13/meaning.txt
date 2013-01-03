@@ -1,0 +1,21 @@
+house
+family
+arrow
+parent
+kind
+my older brother
+older brother
+sibling
+my older sister
+older sister
+younger brother
+younger sister
+I
+my husband
+my wife
+head (of a household), husband
+to live
+thread
+full name
+paper
+letter

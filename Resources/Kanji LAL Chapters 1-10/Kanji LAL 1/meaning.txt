@@ -1,0 +1,35 @@
+one
+one (thing)
+two
+two (things)
+three
+three (things)
+four
+four (things)
+five
+five (things)
+six
+six (things)
+six hundred
+seven
+seven (things)
+eight
+eight (things)
+eight hundred
+nine
+nine (things)
+ten
+hundred
+two hundred
+three hundred
+thousand
+two thousand
+three thousand
+eight thousand
+one thousand yen
+ten thousand
+one hundred thousand
+one million
+one hundred yen
+mouth
+eye
